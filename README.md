@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Musaib4
-- 👀 I’m interested in web development and love to join an good company where i can show and enhance my skills
-- 🌱 I’m currently learning python which is going to help me in backend
-- 📫You can reach me via my e-mail which is "misgermusaib@gmail.com" or via my mobile number "9149468756"
-<!---
-Musaib4/Musaib4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Musaib 👋
+
+🌟 **Passionate Web Developer** | Always eager to learn & create impactful projects  
+
+👀 **Interests:** Web development, building responsive and interactive websites, exploring new technologies  
+
+🌱 **Currently Learning:** Python for backend development to strengthen full-stack skills  
+
+💼 **Career Goal:** Looking to join a dynamic company where I can contribute, grow, and enhance my skills  
+
+📫 **Get in Touch:**  
+- **Email:** [misgermusaib@gmail.com](mailto:misgermusaib@gmail.com)  
+- **Phone:** +91 9149468756  
+
+🚀 **Fun Fact:** I love exploring new tech stacks and turning ideas into real projects!
+
