@@ -10,7 +10,7 @@
 
 📫 **Get in Touch:**  
 - **Email:** [misgermusaib@gmail.com](mailto:misgermusaib@gmail.com)
-- portfolio web: ** musaibmisger.sbs
+- portfolio web: ** [musaibmisger.sbs](https://www.musaibmisger.sbs/)
 - **Phone:** +91 9149468756  
 
 🚀 **Fun Fact:** I love exploring new tech stacks and turning ideas into real projects!
