@@ -9,7 +9,8 @@
 💼 **Career Goal:** Looking to join a dynamic company where I can contribute, grow, and enhance my skills  
 
 📫 **Get in Touch:**  
-- **Email:** [misgermusaib@gmail.com](mailto:misgermusaib@gmail.com)  
+- **Email:** [misgermusaib@gmail.com](mailto:misgermusaib@gmail.com)
+- portfolio web: ** musaibmisger.sbs
 - **Phone:** +91 9149468756  
 
 🚀 **Fun Fact:** I love exploring new tech stacks and turning ideas into real projects!
