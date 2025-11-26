@@ -1,59 +1,91 @@
+<!--
+  README for: Musaib4
+  - Copy this file into the repository named exactly: Musaib4
+  - Replace any links/emails if you want
+-->
+
+<!-- PROFILE HEADER -->
 # Hi there, I'm Musaib 👋
 
-💫 **About Me:**
-- 🌟 Passionate Web Developer focused on building clean and responsive websites  
+---
+
+## 💫 About Me:
+- 🌟 Passionate Web Developer focused on building clean & responsive websites  
 - 🌱 Currently learning **Python for backend development**  
 - 👀 Interested in **Full-stack development, APIs, and modern web technologies**  
 - 💼 Career Goal: To join a growing tech company and improve my development skills  
-- 🚀 Fun Fact: I love exploring new tools & turning ideas into real projects  
+- 🚀 Fun Fact: I enjoy turning ideas into working projects!  
+- ✉️ How to reach me: **misgermusaib@gmail.com**
 
 ---
 
-### 🌐 **Socials**
-- 📧 Email: **misgermusaib@gmail.com**
-- 🌍 Portfolio: **musaibmisger.sbs**
-- 📞 Phone: **+91 9149468756**
+## 🌐 Socials
+[![Website](https://img.shields.io/badge/Portfolio-musaibmisger.sbs-informational?style=for-the-badge&logo=google-chrome)](https://musaibmisger.sbs)
+[![Email](https://img.shields.io/badge/Email-misgermusaib@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:misgermusaib@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91%209149468756-success?style=for-the-badge&logo=whatsapp)](tel:+919149468756)
 
 ---
 
-### 💻 **Tech Stack**
-
-**Frontend:**  
-HTML • CSS • JavaScript • React • Responsive Design  
-
-**Backend (Learning):**  
-Python • Node.js (Basics) • Express.js (Basics)  
-
-**Database:**  
-MongoDB (Basics)  
-
-**Tools:**  
-Git • GitHub • VS Code • Netlify • Vercel  
-
-**Design:**  
-Figma (Beginner)
-
----
-
-### 📊 **GitHub Stats**
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Musaib4&show_icons=true&theme=tokyonight"/>
-</p>
+## 💻 Tech Stack
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Musaib4&theme=tokyonight"/>
+<!-- skillicons.dev row -->
+<img alt="HTML5" src="https://skillicons.dev/icons?i=html" height="36" />&nbsp;
+<img alt="CSS3" src="https://skillicons.dev/icons?i=css" height="36" />&nbsp;
+<img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="36" />&nbsp;
+<img alt="React" src="https://skillicons.dev/icons?i=react" height="36" />&nbsp;
+<img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" height="36" />&nbsp;
+<img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="36" />&nbsp;
+<img alt="Vite" src="https://skillicons.dev/icons?i=vite" height="36" />&nbsp;
+<img alt="React Router" src="https://skillicons.dev/icons?i=reactrouter" height="36" />&nbsp;
+<img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="36" />&nbsp;
+<img alt="Express" src="https://skillicons.dev/icons?i=express" height="36" />&nbsp;
+<img alt="Python" src="https://skillicons.dev/icons?i=python" height="36" />&nbsp;
+<img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="36" />&nbsp;
+<img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="36" />&nbsp;
+<img alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="36" />&nbsp;
+<img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="36" />&nbsp;
+<img alt="Figma" src="https://skillicons.dev/icons?i=figma" height="36" />&nbsp;
+<img alt="Git" src="https://skillicons.dev/icons?i=git" height="36" />&nbsp;
+</p>
+
+*Beginner / learning: Python, Express, MongoDB.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Top languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musaib4&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- General stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Musaib4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🏆 **GitHub Trophies**
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=Musaib4&theme=radical&margin-w=5"/>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Musaib4&theme=radical&margin-w=5" alt="Trophies" />
 </p>
 
 ---
 
-### ✍️ **Random Dev Quote**
-<p>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
+---
+
+## 📂 Projects (example)
+> Add a short projects section and link repos — replace with your projects.
+
+- **Shop Demo** — E-commerce UI (React + Tailwind) — [github.com/Musaib4/shop-demo](https://github.com/Musaib4)
+- **Portfolio** — Personal site on Vercel — [musaibmisger.sbs](https://musaibmisger.sbs)
+
