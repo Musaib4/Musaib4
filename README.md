@@ -77,6 +77,5 @@
 ## 📂 Projects (example)
 > Add a short projects section and link repos — replace with your projects.
 
-- **Shop Demo** — Blog Web UI in Progress — [https://blogwebbyme.netlify.app/](https://github.com/Musaib4)
-- **Portfolio** — Personal site on Vercel — [musaibmisger.sbs](https://musaibmisger.sbs)
+- **Portfolio** — Personal site — [musaibmisger.sbs](https://musaibmisger.sbs)
 
