@@ -23,21 +23,7 @@
 
 ## 💻 Tech Stack
 
-<p>
-<!-- skillicons.dev row -->
-<img alt="HTML5" src="https://skillicons.dev/icons?i=html" height="36" />&nbsp;
-<img alt="CSS3" src="https://skillicons.dev/icons?i=css" height="36" />&nbsp;
-<img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="36" />&nbsp;
-<img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="36" />&nbsp;
-<img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="36" />&nbsp;
-<img alt="Express" src="https://skillicons.dev/icons?i=express" height="36" />&nbsp;
-<img alt="Python" src="https://skillicons.dev/icons?i=python" height="36" />&nbsp;
-<img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="36" />&nbsp;
-<img alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="36" />&nbsp;
-<img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="36" />&nbsp;
-<img alt="Git" src="https://skillicons.dev/icons?i=git" height="36" />&nbsp;
-</p>
-
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
 *Beginner / learning: Express, MongoDB.*
 
 ---
