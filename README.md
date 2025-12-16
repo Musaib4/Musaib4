@@ -3,6 +3,12 @@
 # Hi there, I'm Musaib 
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musaib4&theme=react-dark&hide_border=true" />
+</p>
+
+
+---
 
 ## 💫 About Me:
 - 🌟 Passionate Web Developer focused on building clean & responsive websites  
@@ -23,7 +29,25 @@
 
 ## 💻 Tech Stack
 
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5_Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3_Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap_Framework-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js_Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express_Framework-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git_Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify_Hosting-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+
 *Beginner / learning: Express, MongoDB.*
 
 ---
@@ -31,24 +55,31 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Musaib4&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Musaib4&show_icons=true&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Musaib4&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Musaib4&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musaib4&layout=compact&theme=react&hide_border=true" />
 </p>
 
 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔨 Currently Working On
+- 🔹 Learning backend with **Express & MongoDB**
+- 🔹 Building full-stack projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Musaib4&theme=radical&margin-w=5" alt="Trophies" />
-</p>
+---
+## 🎯 2025-26 Goals
+- ✅ Strengthen JavaScript & React
+- 🔄 Master Express + MongoDB
+- 🚀 Build 3 full-stack projects
+- 💼 Land a Frontend / Full-Stack Developer role
 
 ---
 
@@ -60,8 +91,6 @@
 
 ---
 
-## 📂 Projects (example)
-> Add a short projects section and link repos — replace with your projects.
-
+## 📂 Projects
 - **Portfolio** — Personal site — [musaibmisger.sbs](https://musaibmisger.sbs)
 
